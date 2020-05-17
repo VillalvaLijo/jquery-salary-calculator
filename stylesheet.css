@@ -1,0 +1,13 @@
+h1 {
+    background-color: gray;
+    text-align: center;
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
